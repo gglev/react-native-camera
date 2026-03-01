@@ -1,22 +1,24 @@
-
-# 🚧 🚧 🚧
-## react-native-camera is deprecated.
+# react-native-camera is deprecated.
 
 My test tool
 
-описание функционала branch1:
-- добавлена поддержка Python скриптов;
-- исправлены ошибки;
+## Функционал branch1:
+- Добавлена поддержка Python скриптов;
+- Исправлены ошибки;
 
+## Новые возможности в branch1:
+- Улучшена производительность обработки данных;
+- Добавлен модуль SuperTester для расширенного тестирования;
 
-Новые возможности в branch1:
--Улучшена проивзодительность обработки данных;
--Добавлен модуль SuperTester для расширенного тестирования;
+## Обновления в branch1:
+- Добавлена документация;
 
-Обновление в branch1:
--Добавлена документация;
+## Доработки в branch2:
+- Обновлена документация;
+- Доработки и улучшения;
+- Еще обновления
 
-Due to the lack of maintainers and increased code complexity, react-native-camera is now deprecated in favor of [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera).
+Due to the lack of maintainers and increased code complexity, react-native-camera is now deprecated in favor of [react-native-vision-camera].
 
 VisionCamera offers new APIs, better performance, improved stability and more features.
 It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and used in many production apps.
@@ -28,4 +30,4 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
 
-> See [this issue](https://github.com/react-native-community/react-native-camera/issues/3000) for more details.
+> See [this issue](https://github.com/react-native-camera/issues/3000) for more details.
