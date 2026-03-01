@@ -8,6 +8,11 @@ My test tool
 - добавлена поддержка Python скриптов
 - исправлены ошибки
 
+
+Новые возможности в branch1:
+-Улучшена проивзодительность обработки данных
+-Добавлен модуль SuperTester для расширенного тестирования
+
 Due to the lack of maintainers and increased code complexity, react-native-camera is now deprecated in favor of [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera).
 
 VisionCamera offers new APIs, better performance, improved stability and more features.
